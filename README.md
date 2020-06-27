@@ -1,2 +1,2 @@
 # python_exercises
-1. The image_processing file contains an exercise of ptocessing image from textbook
+1. "image_processing" contains an exercise of ptocessing image from textbook
