@@ -1,2 +1,3 @@
 # python_exercises
-1. "image_processing" contains an exercise of ptocessing image from textbook
+1. "geo_data" contains the final prpject of the Coursera course "Using Databases with Python"
+2. "image_processing" contains an exercise of ptocessing image from textbook
