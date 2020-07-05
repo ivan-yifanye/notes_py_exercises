@@ -1,6 +1,6 @@
 # Python Exercises
 
-This repo contains my collactions of interesting python exercises
+This repo contains my collactions of interesting python exercises:
 
 * "geo_data": The final project of the Coursera course "Using Databases with Python"
 * "image_processing": An textbook exercise of processing images
